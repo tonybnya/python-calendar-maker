@@ -1,0 +1,8 @@
+USAGE:
+To properly run the script:
+
+Command: `./calendar_maker.py [year] [month]`.
+
+Arguments:
+- `year`: a decimal, like 2021.
+- `month`: a decimal between 1 and 12, like 7 for July.
